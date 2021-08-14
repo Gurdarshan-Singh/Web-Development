@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Gurdarshan's Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="Images/mine.png" alt="Gurdarshan Singh Profile Pic"></td>
+      <td>
+        <h1>Gurdarshan Singh</h1>
+        <p><em>I am a <strong><a href="https://www.linkedin.com/in/gurdarshan-singh-401aa5157/">Student</a></strong> currently</em></p>
+        <p>I am an IT student in IPU college named as <a href="https://adgitmdelhi.ac.in/">Dr. Akhilesh Das Gupta Institute Of Technology</a>. I am currently new things like Web development. I am doing C++ side by side. I 💕 coding</p>
+      </td>
+    </tr>
+  </table>
+
+
+</body>
+
+<hr>
+<h3><strong>Education</strong></h3>
+<ul>
+  <h4>
+    <li><a href="https://www.bmvbasma.edu.in/">Balwantray Mehta Vidhya Bhawan (A.S.M.A)</a>
+  </h4>
+  <ul>
+    <li>10th (10 CGPA)</li>
+    <li>12th (87%)</li>
+  </ul>
+  </li>
+</ul>
+<br>
+<ul>
+  <li>
+    <h4><a href="https://adgitmdelhi.ac.in/">Dr. Akhilesh Das Gupta Institute Of Technology</a></h4>
+    <ul>
+      <li>4th Sem (83%)</li>
+    </ul>
+  </li>
+</ul>
+<hr>
+<h3>Work and Experience</h3>
+<table cellspacing="10">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Work</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2020</td>
+      <td>Machine Learning</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Python Bootcamp</td>
+    </tr>
+  </tbody>
+  <tfoot>
+ </tfoot>
+</table>
+<hr>
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>C++</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Mysql</td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>MATLABS </td>
+          <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Machine learning</td>
+          <td>⭐⭐⭐☆☆</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<hr>
+<h3>Hobbies</h3>
+<ol type=a>
+  <li><a href="https://github.com/Gurdarshan-Singh">Love Coding</a></li>
+  <li>New Technology Interests Me </li>
+  <li>Playing Football</li>
+  <li>Riding Motorbike</li>
+</ol>
+<h3><a href="ContactMe.html">Contact me</a></h3>
+<hr>
+
+</html>
