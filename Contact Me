@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Contact Me</title>
+  </head>
+  <body>
+    <h1>Contact Me</h1>
+    <ol type=A>
+      <li><a href="https://www.linkedin.com/in/gurdarshan-singh-401aa5157/">Linkedin</a></li>
+      <li><a href="https://github.com/Gurdarshan-Singh">Github</a></li>
+      <li>Email:gurdarshan408@gmail.com</li>
+      <li>Mobile:+918527760143</li>
+    </ol>
+    <hr>
+    <h3><strong>Send message to Me</strong></h3>
+    <form action="mailto:gurdarshan408@gmail.com" method="post" enctype="text/plain">
+      <label for="">Your Name :</label>
+      <input type="text" name="Name:" value="">
+      <br>
+      <label for="">Your Email:</label>
+      <input type="email" name="Email:" value=""><br>
+      <label for="">Your message:</label><br>
+      <textarea name="Message" rows="10" cols="30"></textarea>
+      <br>
+      <label for="">Color</label>
+      <input type="color" name="Color:" value="">
+      <br>
+      <label for="">Choose a File You want to Add:</label>
+      <input type="file" name="File:" value="">
+      <br>
+      <label for="">Date</label>
+      <input type="date" name="Date:" value="">
+      <br>
+      <label for="">Check To proceed</label>
+      <input type="checkbox" name="" value=""><br>
+      <input type="submit" name="">
+
+
+    </form>
+  </body>
+</html>
